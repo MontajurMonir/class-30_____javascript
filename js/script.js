@@ -90,3 +90,21 @@ else{
     
     
 }
+
+
+let jack;
+jack= 'monir';
+console.log(jack);
+
+let k =false;
+console.log(k);
+
+let add = 11+10
+console.log(add);
+
+$
+
+
+
+
+
